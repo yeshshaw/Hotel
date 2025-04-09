@@ -1,4 +1,0 @@
-3. Java Projects Bana
-	•	Basic Projects: To-Do List, Calculator, Number Guessing Game
-	•	Intermediate: Library Management System, Employee Management System
-	•	Advanced: E-commerce backend, Chat Application, REST APIs
